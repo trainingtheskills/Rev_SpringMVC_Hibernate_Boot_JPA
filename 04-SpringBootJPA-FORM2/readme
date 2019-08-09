@@ -1,0 +1,3 @@
+1. Tomcat does not works on browser however it runs in sts - Make dev tools
+2. Make sure controller, service, dao all resides in child folder of package of main method.
+3. Enitymaage not found could bw version issue as jpa automatically install hibernate but to avoid version issue install hibernate 5.2.1
